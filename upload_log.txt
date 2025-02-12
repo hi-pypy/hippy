@@ -1,0 +1,474 @@
+2025-02-11 23:10:04,179 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:10:25,218 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDE84DB380>, 'Connection to 181.120.28.228 timed out. (connect timeout=None)')': /api/v1/launcher/sync/
+2025-02-11 23:10:50,262 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFFC9A690>, 'Connection to 181.120.28.228 timed out. (connect timeout=None)')': /api/v1/launcher/sync/
+2025-02-11 23:11:19,291 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFF8DCFE0>, 'Connection to 181.120.28.228 timed out. (connect timeout=None)')': /api/v1/launcher/sync/
+2025-02-11 23:11:40,326 - ERROR - 2025-02-11 23:11:40.326454 - cathappens.tr giriþ hatasý: ConnectTimeout HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFFC9AA20>, 'Connection to 181.120.28.228 timed out. (connect timeout=None)')) (Proxy: 181.120.28.228:80)
+2025-02-11 23:11:50,327 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:12:11,361 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFFC9AE10>, 'Connection to 64.56.150.102 timed out. (connect timeout=None)')': /api/v1/launcher/sync/
+2025-02-11 23:12:36,383 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFFC9B3B0>, 'Connection to 64.56.150.102 timed out. (connect timeout=None)')': /api/v1/launcher/sync/
+2025-02-11 23:13:05,409 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFFC9B4A0>, 'Connection to 64.56.150.102 timed out. (connect timeout=None)')': /api/v1/launcher/sync/
+2025-02-11 23:13:26,438 - ERROR - 2025-02-11 23:13:26.438843 - censored.tr giriþ hatasý: ConnectTimeout HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/launcher/sync/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FDFFC9B650>, 'Connection to 64.56.150.102 timed out. (connect timeout=None)')) (Proxy: 64.56.150.102:3128)
+2025-02-11 23:19:48,885 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:19:49,314 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:19:49,551 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:19:53,951 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:19:54,953 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:19:55,689 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:19:56,692 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:19:58,430 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:19:58,431 - INFO - 2025-02-11 23:19:58.431251 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-11 23:19:59,723 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739305198446_0_1927730211 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:20:03,728 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-11 23:20:06,596 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:20:07,597 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-11 23:20:07,816 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:20:07,817 - INFO - 2025-02-11 23:20:07.817735 - cathappens.tr için paylaþým yapýldý: cat\cathappens (205).jpg
+2025-02-11 23:20:07,819 - INFO - 2025-02-11 23:20:07.819267 - Silindi: cat\cathappens (205).jpg
+2025-02-11 23:20:17,820 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:20:18,206 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:20:18,428 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:20:22,888 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:20:23,889 - INFO - https://i.instagram.com/api/v1/challenge/AXFbgpxiTRDDvdtNwSVkWpRuXPyS-UVaBrhjo-trD4g216EhBkjjCfptsPnxkluknCSRGw/Afx6-hNLwuBieQd2LuIFV7nYVDYz8_0SX6guCN43qaAEJtNebNf38gUgNZXO9P86lEKo6Q_TT6DZ5g/
+2025-02-11 23:20:24,565 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXFbgpxiTRDDvdtNwSVkWpRuXPyS-UVaBrhjo-trD4g216EhBkjjCfptsPnxkluknCSRGw/Afx6-hNLwuBieQd2LuIFV7nYVDYz8_0SX6guCN43qaAEJtNebNf38gUgNZXO9P86lEKo6Q_TT6DZ5g/?guid=5944cdd7-8911-405d-81cd-f0d5e276b34a&device_id=android-e8d6359f487353e2&challenge_context=Af4zdz7hYluLQq4lNbf14zbTVzhMD69qYB29g4HMf_dHVuVQrenWhw0aa5T1VgvNV6eVT9kp6gZsS-NVfltmbQny1sclusvGpsDweR7epss8U6i1fp90cH9-7lgrQhN7xXC3tPjcC9ihrSCMoN0a2XXpxyHWyZ-gJDDVYaiLdvluX7f5I80DbHR63wToXk4-T3iJaUlMmCH4BNfuqI8jA1e9osXmdnQx2o5ebQ51mTIo8mMj_wPR-_ixdc_bDk1i-pvFtG48K2eMWb2AHS0zWRgbTV3uS0VvERej215Z-sLSer6Kokkzh0MzYrx5hY4SA6NkdPNbj8nvYMdjk4SR9xT1JN-c2rbV3V8bIi3ckEsmO-SHwPeCxaapHFkD5owz2qGiZ_NohTV7woRtEI1Y-0uQD3AYMGNNDg_lh3hmN4Jbe9pD6BGtMG4svBot2fyAlJ4Im676mPfXV4RX9NDN4aQLDMb_AcimIEYSrvrO3ptddyI3zcafozQN5WciDHbIZjxwyrqCoHo (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:20:25,566 - INFO - https://i.instagram.com/api/v1/challenge/AXFbgpxiTRDDvdtNwSVkWpRuXPyS-UVaBrhjo-trD4g216EhBkjjCfptsPnxkluknCSRGw/Afx6-hNLwuBieQd2LuIFV7nYVDYz8_0SX6guCN43qaAEJtNebNf38gUgNZXO9P86lEKo6Q_TT6DZ5g/
+2025-02-11 23:20:26,653 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFbgpxiTRDDvdtNwSVkWpRuXPyS-UVaBrhjo-trD4g216EhBkjjCfptsPnxkluknCSRGw/Afx6-hNLwuBieQd2LuIFV7nYVDYz8_0SX6guCN43qaAEJtNebNf38gUgNZXO9P86lEKo6Q_TT6DZ5g/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:23:36,056 - INFO - https://i.instagram.com/api/v1/challenge/AXFbgpxiTRDDvdtNwSVkWpRuXPyS-UVaBrhjo-trD4g216EhBkjjCfptsPnxkluknCSRGw/Afx6-hNLwuBieQd2LuIFV7nYVDYz8_0SX6guCN43qaAEJtNebNf38gUgNZXO9P86lEKo6Q_TT6DZ5g/
+2025-02-11 23:23:36,336 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFbgpxiTRDDvdtNwSVkWpRuXPyS-UVaBrhjo-trD4g216EhBkjjCfptsPnxkluknCSRGw/Afx6-hNLwuBieQd2LuIFV7nYVDYz8_0SX6guCN43qaAEJtNebNf38gUgNZXO9P86lEKo6Q_TT6DZ5g/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:23:36,336 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:23:39,531 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:23:39,531 - ERROR - 2025-02-11 23:23:39.531100 - censored.tr giriþ hatasý: challenge_required
+2025-02-11 23:29:26,655 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:29:27,030 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:27,343 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:29:32,824 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:33,825 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:29:34,457 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:35,459 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:29:36,942 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:36,943 - INFO - 2025-02-11 23:29:36.943099 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-11 23:29:38,235 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739305776952_0_1882988994 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:42,237 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-11 23:29:45,631 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:46,633 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-11 23:29:46,811 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:46,812 - INFO - 2025-02-11 23:29:46.812108 - cathappens.tr için paylaþým yapýldý: cat\cathappens (542).jpg
+2025-02-11 23:29:46,812 - INFO - 2025-02-11 23:29:46.812108 - Silindi: cat\cathappens (542).jpg
+2025-02-11 23:29:56,813 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:29:57,188 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:29:57,413 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:30:01,151 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:30:02,152 - INFO - https://i.instagram.com/api/v1/challenge/AXFIJ2c5eINJvksJvg64QU6AZ_dEdyeXmmJmvQrYSttQWvBqCgW2I8BqyUSSZ28kGVi6xw/AfxD6KnAuhkFhdZtaT3u9_XE29XlT9NIdkkujofRBL0twP-Xm_Uv_w8jMhcP6PSns8GXmgGiVxHaiA/
+2025-02-11 23:30:03,118 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXFIJ2c5eINJvksJvg64QU6AZ_dEdyeXmmJmvQrYSttQWvBqCgW2I8BqyUSSZ28kGVi6xw/AfxD6KnAuhkFhdZtaT3u9_XE29XlT9NIdkkujofRBL0twP-Xm_Uv_w8jMhcP6PSns8GXmgGiVxHaiA/?guid=1de2b82c-256e-4b5b-bfe3-1635fa88eb17&device_id=android-9d41aa769e0ca181&challenge_context=Af6_ZBfz91G0c76LXtz0_O3CREnJs0qNeoGPpSx8e7G_CrGDLBveflwevzzm5MP_c4u5kmtqnf35rP8RbXypVYiSGmfde1nbALANWPhSJv_zYX9JQTUDafsmtbQXluDAQR_e1B49op2rlYcv1YD_aSGpi1fzrUl-NFqSdtcYCToVdkv0aM1iJcWOmvmjAD7hSzOh1Dcq2GBJtkfhADXhRNDFVas-OWIGhRHDb8EIrjGc6ySljAveChj7nEAuw6R80CkvmGkmaY2XfLGQyC9hgsH8QvMbDLTOfNna7OY3bYFqIXyQZN32H8RtMS40Nvd_n3zNlk-5Z5rbDLpsffZLfaSgca6Hf0gqPM4tSQGs-XyBnw8eN-LX0of--4Qcumu24U77LVMT5XCji3Kt9v7U71ZLo0B_-8wuJ4X_f8Es6P7pCCHi8dVY86ghfnhiONzOral0gwASJDKeTQgvvhN6Hm1grPEToVNTnujuc0eR-DYoD6UcgWX3NXfKCSLwowDfEjB4Yu3KeXo (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:30:04,119 - INFO - https://i.instagram.com/api/v1/challenge/AXFIJ2c5eINJvksJvg64QU6AZ_dEdyeXmmJmvQrYSttQWvBqCgW2I8BqyUSSZ28kGVi6xw/AfxD6KnAuhkFhdZtaT3u9_XE29XlT9NIdkkujofRBL0twP-Xm_Uv_w8jMhcP6PSns8GXmgGiVxHaiA/
+2025-02-11 23:30:04,980 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFIJ2c5eINJvksJvg64QU6AZ_dEdyeXmmJmvQrYSttQWvBqCgW2I8BqyUSSZ28kGVi6xw/AfxD6KnAuhkFhdZtaT3u9_XE29XlT9NIdkkujofRBL0twP-Xm_Uv_w8jMhcP6PSns8GXmgGiVxHaiA/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:31:01,594 - INFO - https://i.instagram.com/api/v1/challenge/AXFIJ2c5eINJvksJvg64QU6AZ_dEdyeXmmJmvQrYSttQWvBqCgW2I8BqyUSSZ28kGVi6xw/AfxD6KnAuhkFhdZtaT3u9_XE29XlT9NIdkkujofRBL0twP-Xm_Uv_w8jMhcP6PSns8GXmgGiVxHaiA/
+2025-02-11 23:31:01,858 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFIJ2c5eINJvksJvg64QU6AZ_dEdyeXmmJmvQrYSttQWvBqCgW2I8BqyUSSZ28kGVi6xw/AfxD6KnAuhkFhdZtaT3u9_XE29XlT9NIdkkujofRBL0twP-Xm_Uv_w8jMhcP6PSns8GXmgGiVxHaiA/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:31:01,858 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:31:05,353 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:31:05,353 - ERROR - 2025-02-11 23:31:05.353698 - censored.tr giriþ hatasý: challenge_required
+2025-02-11 23:33:14,982 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:33:15,389 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:15,633 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:33:19,514 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:20,515 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:33:21,335 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:22,341 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:33:23,981 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:23,982 - INFO - 2025-02-11 23:33:23.982364 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-11 23:33:25,684 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739306003993_0_3644212124 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:29,687 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-11 23:33:32,697 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:33,698 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-11 23:33:33,897 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:33,899 - INFO - 2025-02-11 23:33:33.899400 - cathappens.tr için paylaþým yapýldý: cat\cathappens (323).jpg
+2025-02-11 23:33:33,899 - INFO - 2025-02-11 23:33:33.899400 - Silindi: cat\cathappens (323).jpg
+2025-02-11 23:33:43,900 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:33:44,291 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:44,534 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:33:47,638 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:48,639 - INFO - https://i.instagram.com/api/v1/challenge/AXFt5IVS07m3yNF4YVPEWOt-ChBcX_97v996T1pVap6DH0ggeDhhFnifb9T85fi5p--M8A/AfxPmpqLwXIxFgZmVnuJPr1vTDonx_aKMaBMLCpuhPSxr9CMGCEYiCgwMflML4nv1NOxLyJH4mddpA/
+2025-02-11 23:33:49,242 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXFt5IVS07m3yNF4YVPEWOt-ChBcX_97v996T1pVap6DH0ggeDhhFnifb9T85fi5p--M8A/AfxPmpqLwXIxFgZmVnuJPr1vTDonx_aKMaBMLCpuhPSxr9CMGCEYiCgwMflML4nv1NOxLyJH4mddpA/?guid=dee28403-a437-428b-a605-2a35355de23c&device_id=android-8e8c1a61502ea586&challenge_context=Af6HAz22HFMFZErp9VJUB1iU9Bu6WaKbgQe3dKOdIdhj1GfWlXoDJGX9BR2Y2BLDW8WADQLmrG-vSTBcXl3en4tGuGrXK927Yq0Zr_5bbO69c7O4r6ylUkbwXtfgI2fRLx4X7A8HUFWDc74JszDn_aLsqrXdF224-ZAvOjJEBKPHBHcHUr7iNY7UV8k6A1nH8Usrg4XLWP3wPrrdYTeGSqfXJFlwcrI66EG0H2PSNWYMM6bhawWTVfKPXII8cDifDTjn4R8CTJY-x1sIfNqpqOgDg_2MN_pYBZRLi5Zs5FOaCPDTn87O1frIc7riOn467hRKnGWi0ZEMdcxguiDfysSw9StnuZXHT9bSU1pSGYVNKTKyS9ptIjWp7N8OpQq3d2duIVcs-KC3LEBtfEf6YK1IAIX8DAp-uUNRVC9_JpWAKGaZ_DILbmZTwulyPBm9RWEc9WaA_pR0--5YCPx4DpgcyjqrHyK-uCE2cR0MTvPYgPPkYDPv-VWHkvaLbeFWoJNr2ldEgdM (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:33:50,243 - INFO - https://i.instagram.com/api/v1/challenge/AXFt5IVS07m3yNF4YVPEWOt-ChBcX_97v996T1pVap6DH0ggeDhhFnifb9T85fi5p--M8A/AfxPmpqLwXIxFgZmVnuJPr1vTDonx_aKMaBMLCpuhPSxr9CMGCEYiCgwMflML4nv1NOxLyJH4mddpA/
+2025-02-11 23:33:51,230 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFt5IVS07m3yNF4YVPEWOt-ChBcX_97v996T1pVap6DH0ggeDhhFnifb9T85fi5p--M8A/AfxPmpqLwXIxFgZmVnuJPr1vTDonx_aKMaBMLCpuhPSxr9CMGCEYiCgwMflML4nv1NOxLyJH4mddpA/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:36:37,828 - INFO - https://i.instagram.com/api/v1/challenge/AXFt5IVS07m3yNF4YVPEWOt-ChBcX_97v996T1pVap6DH0ggeDhhFnifb9T85fi5p--M8A/AfxPmpqLwXIxFgZmVnuJPr1vTDonx_aKMaBMLCpuhPSxr9CMGCEYiCgwMflML4nv1NOxLyJH4mddpA/
+2025-02-11 23:36:38,120 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFt5IVS07m3yNF4YVPEWOt-ChBcX_97v996T1pVap6DH0ggeDhhFnifb9T85fi5p--M8A/AfxPmpqLwXIxFgZmVnuJPr1vTDonx_aKMaBMLCpuhPSxr9CMGCEYiCgwMflML4nv1NOxLyJH4mddpA/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:36:38,120 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:36:41,795 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:36:41,796 - ERROR - 2025-02-11 23:36:41.796777 - censored.tr giriþ hatasý: challenge_required
+2025-02-11 23:40:49,035 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:40:49,481 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:40:49,742 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:40:52,732 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:40:53,733 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:40:54,426 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:40:55,428 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:40:56,894 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:40:56,896 - INFO - 2025-02-11 23:40:56.896819 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-11 23:40:58,527 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739306456904_0_4331230935 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:02,529 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-11 23:41:05,494 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:06,496 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-11 23:41:06,685 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:06,686 - INFO - 2025-02-11 23:41:06.686110 - cathappens.tr için paylaþým yapýldý: cat\cathappens (625).jpg
+2025-02-11 23:41:06,687 - INFO - 2025-02-11 23:41:06.686110 - Silindi: cat\cathappens (625).jpg
+2025-02-11 23:41:16,687 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:41:17,033 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:17,282 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:41:24,395 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:25,406 - INFO - https://i.instagram.com/api/v1/challenge/AXEWR2TLDufrUr3II2sTgvBmkDoIUJXmlyV5kZ8AlfTchTroPYGgSefPZiWHMN6xSqa8yg/AfzY-4dfVuVzuYMe_z9njA2618Vmd3na2aIAn2R7yysVfe03cIZESWRuBbmtNIGoQF5GipGtGuur_w/
+2025-02-11 23:41:26,289 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXEWR2TLDufrUr3II2sTgvBmkDoIUJXmlyV5kZ8AlfTchTroPYGgSefPZiWHMN6xSqa8yg/AfzY-4dfVuVzuYMe_z9njA2618Vmd3na2aIAn2R7yysVfe03cIZESWRuBbmtNIGoQF5GipGtGuur_w/?guid=2888e571-a8c6-4669-bdac-a0aaf98439b8&device_id=android-87828c3e4c1e2fa0&challenge_context=Af5nFl48A369xZys8DJ9R2jhqb9qIiHxqhEN0JkqE5V-tyU3mTEhWqq60CtRsL-1LLdZAauJqupK_Fp5GxRLIgE8JyoSFCHgFDcMUJylPgqkm4Pj3viydBf5zBQC_ys3neqi-73HrOku3je1Bkulc60b9ab8ZUwA2NrY0xwwpVgTRgHBTWHWMQnNJ-S_obA7apW7rYCnMy43RM4eoc1xqJdfI3sNf-XnRQCA3kNiZISrQSYnVg90KdmoN7z5NhkVoBLuhWYCwwGYdG8E8UtWYENSNk5zfYyuIUwBBPehNSgZR2GiM2cjZKomhZuBq3DmQIsB4xIRG5VGpLdjuKLxkTtcyOB-sPUYB2AM_BmSrz55KX6oPQcjXHfJ_KvkgrUZieXcvkqnbGQ3t7E8RlNoxJcD3373AgBiVhWCpr2XkmrvS5kH3aTtSFMqyu-NLVSpy51LRPQggzsVitzDVosL5q_rYaTMY03pYyyAO1FE2hGEk6zSOOh0YyTzdWsegNCnuvRSqJJtxD4 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:27,290 - INFO - https://i.instagram.com/api/v1/challenge/AXEWR2TLDufrUr3II2sTgvBmkDoIUJXmlyV5kZ8AlfTchTroPYGgSefPZiWHMN6xSqa8yg/AfzY-4dfVuVzuYMe_z9njA2618Vmd3na2aIAn2R7yysVfe03cIZESWRuBbmtNIGoQF5GipGtGuur_w/
+2025-02-11 23:41:28,326 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXEWR2TLDufrUr3II2sTgvBmkDoIUJXmlyV5kZ8AlfTchTroPYGgSefPZiWHMN6xSqa8yg/AfzY-4dfVuVzuYMe_z9njA2618Vmd3na2aIAn2R7yysVfe03cIZESWRuBbmtNIGoQF5GipGtGuur_w/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:51,953 - INFO - https://i.instagram.com/api/v1/challenge/AXEWR2TLDufrUr3II2sTgvBmkDoIUJXmlyV5kZ8AlfTchTroPYGgSefPZiWHMN6xSqa8yg/AfzY-4dfVuVzuYMe_z9njA2618Vmd3na2aIAn2R7yysVfe03cIZESWRuBbmtNIGoQF5GipGtGuur_w/
+2025-02-11 23:41:52,242 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXEWR2TLDufrUr3II2sTgvBmkDoIUJXmlyV5kZ8AlfTchTroPYGgSefPZiWHMN6xSqa8yg/AfzY-4dfVuVzuYMe_z9njA2618Vmd3na2aIAn2R7yysVfe03cIZESWRuBbmtNIGoQF5GipGtGuur_w/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:52,242 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:41:58,619 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:41:58,619 - ERROR - 2025-02-11 23:41:58.619432 - censored.tr giriþ hatasý: challenge_required
+2025-02-11 23:46:23,965 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:46:24,327 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:24,569 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:46:28,343 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:29,344 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:46:29,966 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:30,967 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:46:32,652 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:32,654 - ERROR - 2025-02-11 23:46:32.654098 - cathappens.tr giriþ hatasý: 'Client' object has no attribute 'challenge_required'
+2025-02-11 23:46:42,656 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:46:43,070 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:43,300 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:46:46,960 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:47,974 - INFO - https://i.instagram.com/api/v1/challenge/AXEr5W2ux8e5g-JFfm6Dim7qLicL3gJzVXBExUpA-yncUyE_gNjVlx-j4dE3QJB11Ae1vQ/AfxeNvMYr-T3unQdhJQBm1FTk-rE3sUAwNCLKgA_yEcsIXk5UNVcjeAAlJXbHHOOO4-xQdKmkIBu0A/
+2025-02-11 23:46:48,681 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXEr5W2ux8e5g-JFfm6Dim7qLicL3gJzVXBExUpA-yncUyE_gNjVlx-j4dE3QJB11Ae1vQ/AfxeNvMYr-T3unQdhJQBm1FTk-rE3sUAwNCLKgA_yEcsIXk5UNVcjeAAlJXbHHOOO4-xQdKmkIBu0A/?guid=e957cf61-d6dd-4b39-9256-be25555591ad&device_id=android-a91a95f93a297422&challenge_context=Af5rg6yie0rSrW6sVSQllARj1va9SLYbDEa1S7cWilHYw5DqVfc8frDTttewRuL9QmUVlVfuMN-uBRxhmYYF5PiW8PsdA6WWZVwszsejgRnPKS8CFCKi3zBXQBGXUI9TGKAA21zzuKneNL3_4PckV4yw_jiL8703Nq6VCIc_jotj058ZNTlu8KNZoX5NGvuYiHGKmUI6DXGEYamKFmMkAZBBLCa2Kq2v2_JutbVFxXED9nV54Ye4luLcDAbDEV5emQG1sMzjzAGMZv89moO9yHU5THNz69VLudxYECMOVpJjUhMChFTfPV9jq1__8s4HCCBvew9SV1d5sJ0glLqHPqlJJI4pzudLRo4G3zQ1e3RccuoB_mhCqN5RBsVflmjlhi-Cc5TKaJJILrNztuGZ5TAAevw4Fk5WCotODjvOBuLLKUXdtZdn3lmk-P5IOEIRCZvhDIqEGWbfMVhlpt8i0k8gaQBrArhEA4CiGS2bdLz7TJ7itwv7g0pquBZO-SlC-wcJ_1Gj_jw (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:46:49,695 - INFO - https://i.instagram.com/api/v1/challenge/AXEr5W2ux8e5g-JFfm6Dim7qLicL3gJzVXBExUpA-yncUyE_gNjVlx-j4dE3QJB11Ae1vQ/AfxeNvMYr-T3unQdhJQBm1FTk-rE3sUAwNCLKgA_yEcsIXk5UNVcjeAAlJXbHHOOO4-xQdKmkIBu0A/
+2025-02-11 23:46:50,732 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXEr5W2ux8e5g-JFfm6Dim7qLicL3gJzVXBExUpA-yncUyE_gNjVlx-j4dE3QJB11Ae1vQ/AfxeNvMYr-T3unQdhJQBm1FTk-rE3sUAwNCLKgA_yEcsIXk5UNVcjeAAlJXbHHOOO4-xQdKmkIBu0A/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:47:35,514 - INFO - https://i.instagram.com/api/v1/challenge/AXEr5W2ux8e5g-JFfm6Dim7qLicL3gJzVXBExUpA-yncUyE_gNjVlx-j4dE3QJB11Ae1vQ/AfxeNvMYr-T3unQdhJQBm1FTk-rE3sUAwNCLKgA_yEcsIXk5UNVcjeAAlJXbHHOOO4-xQdKmkIBu0A/
+2025-02-11 23:47:35,726 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXEr5W2ux8e5g-JFfm6Dim7qLicL3gJzVXBExUpA-yncUyE_gNjVlx-j4dE3QJB11Ae1vQ/AfxeNvMYr-T3unQdhJQBm1FTk-rE3sUAwNCLKgA_yEcsIXk5UNVcjeAAlJXbHHOOO4-xQdKmkIBu0A/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:47:35,731 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:47:38,832 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:47:38,832 - ERROR - 2025-02-11 23:47:38.832614 - censored.tr giriþ hatasý: challenge_required
+2025-02-11 23:51:31,104 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:51:31,481 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:31,746 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:51:35,127 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:36,129 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:51:36,681 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:37,683 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:51:41,087 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:41,087 - ERROR - 2025-02-11 23:51:41.087198 - cathappens.tr giriþ hatasý: 'Client' object has no attribute 'challenge_required'
+2025-02-11 23:51:51,094 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:51:51,461 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:51,698 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:51:55,377 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:56,378 - INFO - https://i.instagram.com/api/v1/challenge/AXGXH9g0yWmIknRjN-Epl9OtLJLvcvSMgu9uZ9O6cBj3BXCCEk8XdnDKqseGryaFaGL8Dg/AfxiJkdkxqANz4tEI7Wjva-KqDRH_bXDTrCjnE68F9sfWpOSnN54pQZwiFUtcxbGW9S3FbIflM91pQ/
+2025-02-11 23:51:56,965 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXGXH9g0yWmIknRjN-Epl9OtLJLvcvSMgu9uZ9O6cBj3BXCCEk8XdnDKqseGryaFaGL8Dg/AfxiJkdkxqANz4tEI7Wjva-KqDRH_bXDTrCjnE68F9sfWpOSnN54pQZwiFUtcxbGW9S3FbIflM91pQ/?guid=c2c12cfe-8b5b-4014-8eba-feef5316e508&device_id=android-957e42741c7a86bc&challenge_context=Af6u4F6IXmIkXnoSUCXMdeHbL-zVOGzg7rw2w75shDhVzdLD57I7s9SKueS0tYZfPsz1eycC1cWToqZ2Xl-VSGbIA_Wv2tRs9g77yykf11AMwhUmNfcuj_7VjgnzBFQV9FKa0BMXpluZJFxo1M43BQKS-V4nUGSk08I9Mhqkxm6HHN1qsgbgzScb09BmacrqZk0VjvMZPLGJ3PlIT6y0V7Rp3hLkjqZrjSBudoaV7H105IE45FnHf6frvoHROclY-YPFb3bU5ykbJJc2SRm8Ke4T1USWKwGp6wUwqjAge-o13Y4GzoOEn3QmUitBJzh9N5hXPOIXMnQxb6yZ5gB7te8o6Z-JFC8YtCcx5aicqnAyvBikWiSqik3S7KqgZw1nm273lbrIN3sM-KaFl9C4jFEdUamisKYVPcPCv5XPCo4DUOPb5FHGZjKtpSMa7YSAuLjMdPuOm9oflrIBmNEmy_wYoIyWxxVCArx4x3zbLLjD9ZVmWvWbsGNQ6lF14psmt7RgDURWddA (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:51:57,978 - INFO - https://i.instagram.com/api/v1/challenge/AXGXH9g0yWmIknRjN-Epl9OtLJLvcvSMgu9uZ9O6cBj3BXCCEk8XdnDKqseGryaFaGL8Dg/AfxiJkdkxqANz4tEI7Wjva-KqDRH_bXDTrCjnE68F9sfWpOSnN54pQZwiFUtcxbGW9S3FbIflM91pQ/
+2025-02-11 23:51:58,972 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXGXH9g0yWmIknRjN-Epl9OtLJLvcvSMgu9uZ9O6cBj3BXCCEk8XdnDKqseGryaFaGL8Dg/AfxiJkdkxqANz4tEI7Wjva-KqDRH_bXDTrCjnE68F9sfWpOSnN54pQZwiFUtcxbGW9S3FbIflM91pQ/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:52:32,160 - INFO - https://i.instagram.com/api/v1/challenge/AXGXH9g0yWmIknRjN-Epl9OtLJLvcvSMgu9uZ9O6cBj3BXCCEk8XdnDKqseGryaFaGL8Dg/AfxiJkdkxqANz4tEI7Wjva-KqDRH_bXDTrCjnE68F9sfWpOSnN54pQZwiFUtcxbGW9S3FbIflM91pQ/
+2025-02-11 23:52:32,402 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXGXH9g0yWmIknRjN-Epl9OtLJLvcvSMgu9uZ9O6cBj3BXCCEk8XdnDKqseGryaFaGL8Dg/AfxiJkdkxqANz4tEI7Wjva-KqDRH_bXDTrCjnE68F9sfWpOSnN54pQZwiFUtcxbGW9S3FbIflM91pQ/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:52:32,402 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:52:36,190 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:52:36,190 - ERROR - 2025-02-11 23:52:36.190897 - censored.tr giriþ hatasý: challenge_required
+2025-02-11 23:53:49,861 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:53:50,315 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:53:50,559 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:53:55,063 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:53:56,064 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:53:56,682 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:53:57,685 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:53:59,080 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:53:59,082 - ERROR - 2025-02-11 23:53:59.082331 - cathappens.tr giriþ hatasý: 'Client' object has no attribute 'challenge_required'
+2025-02-11 23:54:09,083 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:54:09,491 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:54:09,712 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:54:14,195 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:54:15,197 - INFO - https://i.instagram.com/api/v1/challenge/AXFNiURS9jQGuJjr5fjxvcl33DsJrWLglMA7oxaqr7LwPYA1pwJyVf5FV630lCKpJB14Ow/AfyE7bDOo9mKmjUrpHQ_g5WK4bDGX2bEKRC82iLkxi3IqyRywJW4_xJ0pZ2tSBLzHNKIXpdoS11ryA/
+2025-02-11 23:54:16,155 - INFO - censored.tr [200] GET https://i.instagram.com/api/v1/challenge/AXFNiURS9jQGuJjr5fjxvcl33DsJrWLglMA7oxaqr7LwPYA1pwJyVf5FV630lCKpJB14Ow/AfyE7bDOo9mKmjUrpHQ_g5WK4bDGX2bEKRC82iLkxi3IqyRywJW4_xJ0pZ2tSBLzHNKIXpdoS11ryA/?guid=b217ec18-dbef-49f4-9848-687ff8a5613c&device_id=android-43a1b5086322bc06&challenge_context=Af4SFshRJGd4SmXUv-xAAuWIwggm_G_rmvsjnBzqBOjSGExI2ocQI4qIr5HbgJ5IYw8PRe2xaAQqgYZ-DlIiJiZccHeZBUCQeX-JTBMEm41dOs2eH76T6wWmCMKp468FjGGv2KJKg4j68uA6wGyZDlUrK62Sc2E5jk6XLOwltepEpxpK9LtwO00t1KNx1xCB3B16wrzUjNkhmIECQa4YCKKFyEyTKX5mM1huonMvnrRPZZbxyfAF2Zb8lDmLIlXGTzMj3aU14siUQNxUU8SzRNsGrnA3VkJdTQ-B6xpA_yH_H5I5m7-tf78Wx8iLDc6Mu5EKHGR_uy3hme2_hTgCgioU-GApsWEtjQm9uzjjbh4bgR2M6qJG9cKusveAwOIU8XMnCf_U8lNtPXnQiFy6LyJbtGEo5V_Iq56nQiqdPm8IGa1gCgJPCpE4cJ909L3g-b3NLOJXNFafhbTrn5uYUFspEkEC1BFjwR0eDMqRBQf6PpVB7AVrxk-TDaGCMpaEI2ce-l8rwnI (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:54:17,156 - INFO - https://i.instagram.com/api/v1/challenge/AXFNiURS9jQGuJjr5fjxvcl33DsJrWLglMA7oxaqr7LwPYA1pwJyVf5FV630lCKpJB14Ow/AfyE7bDOo9mKmjUrpHQ_g5WK4bDGX2bEKRC82iLkxi3IqyRywJW4_xJ0pZ2tSBLzHNKIXpdoS11ryA/
+2025-02-11 23:54:18,194 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/challenge/AXFNiURS9jQGuJjr5fjxvcl33DsJrWLglMA7oxaqr7LwPYA1pwJyVf5FV630lCKpJB14Ow/AfyE7bDOo9mKmjUrpHQ_g5WK4bDGX2bEKRC82iLkxi3IqyRywJW4_xJ0pZ2tSBLzHNKIXpdoS11ryA/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:27,510 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:57:27,904 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:28,134 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:57:31,780 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:32,784 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-11 23:57:33,377 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:34,380 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-11 23:57:36,397 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:36,397 - ERROR - 2025-02-11 23:57:36.397218 - cathappens.tr giriþ hatasý: 'Client' object has no attribute 'challenge_required'
+2025-02-11 23:57:46,404 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-11 23:57:46,763 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:46,989 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-11 23:57:48,201 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-11 23:57:48,201 - ERROR - 2025-02-11 23:57:48.201798 - censored.tr giriþ hatasý: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2025-02-12 00:03:47,033 - INFO - 2025-02-12 00:03:47.033366 - cathappens.tr hesabýna giriþ yapýlýyor...
+2025-02-12 00:03:47,033 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:03:47,357 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:03:47,617 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:03:51,645 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:03:52,647 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:03:53,125 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:03:54,130 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:03:56,164 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:03:56,167 - ERROR - 2025-02-12 00:03:56.167103 - cathappens.tr giriþ hatasý: 'Client' object has no attribute 'challenge_required'
+2025-02-12 00:04:06,168 - INFO - 2025-02-12 00:04:06.168890 - censored.tr hesabýna giriþ yapýlýyor...
+2025-02-12 00:04:06,168 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:04:06,861 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:04:07,092 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:04:08,231 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:04:08,231 - ERROR - 2025-02-12 00:04:08.231289 - censored.tr giriþ hatasý: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2025-02-12 00:06:37,404 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:06:37,754 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:06:37,986 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:06:41,176 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:06:42,188 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:06:42,767 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:06:43,813 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:06:45,865 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:06:45,867 - ERROR - 2025-02-12 00:06:45.867211 - cathappens.tr giriþ hatasý: 'Client' object has no attribute 'challenge_required'
+2025-02-12 00:06:45,869 - INFO - 2025-02-12 00:06:45.869779 - cathappens.tr için giriþ yapýlamadý, diðer hesaba geçiliyor...
+2025-02-12 00:06:45,869 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:06:46,229 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:06:46,473 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:06:47,355 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:06:47,355 - ERROR - 2025-02-12 00:06:47.355135 - censored.tr giriþ hatasý: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2025-02-12 00:06:47,355 - INFO - 2025-02-12 00:06:47.355135 - censored.tr için giriþ yapýlamadý, diðer hesaba geçiliyor...
+2025-02-12 00:23:29,587 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:23:29,936 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:30,170 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:23:33,742 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:34,744 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:23:35,246 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:36,247 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:23:38,234 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:38,236 - INFO - 2025-02-12 00:23:38.236864 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-12 00:23:39,959 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739309018245_0_4789486608 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:43,961 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 00:23:48,838 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:49,839 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:23:50,025 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:23:50,027 - INFO - 2025-02-12 00:23:50.027303 - cathappens.tr için paylaþým yapýldý: cat\cathappens (646).jpg
+2025-02-12 00:23:50,027 - INFO - 2025-02-12 00:23:50.027651 - Silindi: cat\cathappens (646).jpg
+2025-02-12 00:24:15,053 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:24:15,471 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:24:15,724 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:24:16,851 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:24:16,852 - ERROR - 2025-02-12 00:24:16.852113 - censored.tr giriþ hatasý: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2025-02-12 00:27:50,060 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:27:50,397 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:27:50,647 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:27:54,362 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:27:55,363 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:27:56,126 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:27:57,126 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:27:58,974 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:27:58,975 - INFO - 2025-02-12 00:27:58.975582 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-12 00:28:00,309 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739309278976_0_7251225654 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:28:04,311 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 00:28:07,174 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:28:08,175 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:28:08,355 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:28:08,357 - INFO - 2025-02-12 00:28:08.357339 - cathappens.tr için paylaþým yapýldý: cat\cathappens (507).jpg
+2025-02-12 00:28:08,358 - INFO - 2025-02-12 00:28:08.358418 - cathappens.tr hesabýnda paylaþým baþarýyla yapýldý.
+2025-02-12 00:28:08,358 - INFO - 2025-02-12 00:28:08.358418 - Silindi: cat\cathappens (507).jpg
+2025-02-12 00:28:48,856 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:28:49,249 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:28:49,488 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:28:50,417 - INFO - censored.tr [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:28:50,417 - ERROR - 2025-02-12 00:28:50.417516 - censored.tr giriþ hatasý: We can send you an email to help you get back into your account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2025-02-12 00:28:50,417 - ERROR - 2025-02-12 00:28:50.417516 - censored.tr için giriþ yapýlamadý.
+2025-02-12 00:32:21,102 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:32:21,506 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:21,760 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:32:25,362 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:26,366 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:32:26,956 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:27,957 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:32:29,526 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:29,527 - INFO - 2025-02-12 00:32:29.527097 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-12 00:32:31,091 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739309549528_0_2008126329 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:35,095 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 00:32:37,702 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:38,704 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:32:38,881 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:32:38,882 - INFO - 2025-02-12 00:32:38.881429 - cathappens.tr için paylaþým yapýldý: cat\cathappens (535).jpg
+2025-02-12 00:32:38,882 - INFO - 2025-02-12 00:32:38.882522 - cathappens.tr hesabýnda paylaþým baþarýyla yapýldý.
+2025-02-12 00:32:38,883 - INFO - 2025-02-12 00:32:38.883125 - Silindi: cat\cathappens (535).jpg
+2025-02-12 00:33:29,135 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:33:29,551 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:33:29,789 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:33:33,321 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:33:34,322 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:33:34,977 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:33:35,978 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:33:38,503 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:33:38,503 - INFO - 2025-02-12 00:33:38.503197 - 2thousandmile baþarýyla giriþ yaptý
+2025-02-12 00:33:38,503 - ERROR - 2025-02-12 00:33:38.503197 - 2thousandmile paylaþým hatasý: [Errno 2] No such file or directory: 'C:\\Users\\Abdullah Soylu\\Downloads\\sx\\cat\\cathappens (535).jpg'
+2025-02-12 00:39:32,942 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:39:33,267 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:33,510 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:39:37,510 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:38,512 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:39:39,029 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:40,030 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:39:42,073 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:42,074 - INFO - 2025-02-12 00:39:42.074884 - 2thousandmile baþarýyla giriþ yaptý
+2025-02-12 00:39:43,899 - INFO - 2thousandmile [200] POST https://i.instagram.com/rupload_igphoto/1739309982075_0_8651740090 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:47,903 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 00:39:51,618 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:52,619 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:39:52,810 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:52,811 - INFO - 2025-02-12 00:39:52.811883 - 2thousandmile için paylaþým yapýldý: cat\cathappens (543).jpg
+2025-02-12 00:39:54,279 - INFO - 2thousandmile [200] POST https://i.instagram.com/rupload_igphoto/1739309992811_0_6514811030 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:39:58,283 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 00:40:01,801 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:40:02,802 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:40:02,987 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:40:02,988 - INFO - 2025-02-12 00:40:02.988170 - 2thousandmile için story paylaþýldý: cat\cathappens (543).jpg
+2025-02-12 00:40:59,126 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:40:59,448 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:40:59,690 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:41:04,912 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:05,914 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:41:07,044 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:08,046 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:41:10,654 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:10,659 - INFO - 2025-02-12 00:41:10.659965 - papazzersvip baþarýyla giriþ yaptý
+2025-02-12 00:41:11,632 - INFO - papazzersvip [200] POST https://i.instagram.com/rupload_igphoto/1739310070659_0_1560276618 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:15,635 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 00:41:18,456 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:19,466 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:41:19,614 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:19,614 - INFO - 2025-02-12 00:41:19.614169 - papazzersvip için paylaþým yapýldý: cat\cathappens (543).jpg
+2025-02-12 00:41:20,717 - INFO - papazzersvip [200] POST https://i.instagram.com/rupload_igphoto/1739310079614_0_2504042015 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:24,721 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 00:41:28,114 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:29,116 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:41:29,279 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:41:29,279 - INFO - 2025-02-12 00:41:29.279413 - papazzersvip için story paylaþýldý: cat\cathappens (543).jpg
+2025-02-12 00:42:02,419 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 00:42:02,763 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:03,015 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 00:42:05,859 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:06,859 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 00:42:07,314 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:08,316 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 00:42:10,888 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:10,890 - INFO - 2025-02-12 00:42:10.890015 - censored.tr baþarýyla giriþ yaptý
+2025-02-12 00:42:11,993 - INFO - censored.tr [200] POST https://i.instagram.com/rupload_igphoto/1739310130891_0_4749436307 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:15,996 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 00:42:19,056 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:20,057 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:42:20,269 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:20,270 - INFO - 2025-02-12 00:42:20.270148 - censored.tr için paylaþým yapýldý: cat\cathappens (543).jpg
+2025-02-12 00:42:21,742 - INFO - censored.tr [200] POST https://i.instagram.com/rupload_igphoto/1739310140270_0_5960014378 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:25,745 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 00:42:29,056 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:30,065 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 00:42:30,301 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 00:42:30,301 - INFO - 2025-02-12 00:42:30.301408 - censored.tr için story paylaþýldý: cat\cathappens (543).jpg
+2025-02-12 00:43:09,177 - INFO - 2025-02-12 00:43:09.177506 - Silindi: cat\cathappens (543).jpg
+2025-02-12 16:38:42,762 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 16:38:43,202 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:38:43,516 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 16:38:50,064 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:38:51,066 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 16:38:51,841 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:38:52,844 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 16:38:55,298 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:38:55,299 - INFO - 2025-02-12 16:38:55.299246 - actanonverban baþarýyla giriþ yaptý
+2025-02-12 16:38:56,908 - INFO - actanonverban [200] POST https://i.instagram.com/rupload_igphoto/1739367535312_0_7511437585 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:00,912 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 16:39:04,415 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:05,415 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:39:05,612 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:05,625 - INFO - 2025-02-12 16:39:05.625504 - actanonverban için paylaþým yapýldý: cat\cathappens (122).jpg
+2025-02-12 16:39:06,889 - INFO - actanonverban [200] POST https://i.instagram.com/rupload_igphoto/1739367545625_0_6000730088 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:10,891 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 16:39:14,129 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:15,130 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:39:15,321 - INFO - actanonverban [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:15,327 - INFO - 2025-02-12 16:39:15.327436 - actanonverban için story paylaþýldý: cat\cathappens (122).jpg
+2025-02-12 16:39:51,903 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 16:39:52,290 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:52,545 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 16:39:57,818 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:39:58,819 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 16:39:59,769 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:00,771 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 16:40:02,572 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:02,575 - INFO - 2025-02-12 16:40:02.575976 - cathappens.tr baþarýyla giriþ yaptý
+2025-02-12 16:40:03,810 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739367602578_0_2381666321 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:07,812 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 16:40:11,266 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:12,267 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:40:12,477 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:12,478 - INFO - 2025-02-12 16:40:12.478912 - cathappens.tr için paylaþým yapýldý: cat\cathappens (122).jpg
+2025-02-12 16:40:14,009 - INFO - cathappens.tr [200] POST https://i.instagram.com/rupload_igphoto/1739367612478_0_3193630789 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:18,010 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 16:40:21,545 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:22,546 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:40:22,774 - INFO - cathappens.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:40:22,774 - INFO - 2025-02-12 16:40:22.774295 - cathappens.tr için story paylaþýldý: cat\cathappens (122).jpg
+2025-02-12 16:41:15,221 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 16:41:15,610 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:15,882 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 16:41:20,421 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:21,421 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 16:41:22,140 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:23,142 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 16:41:25,402 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:25,403 - INFO - 2025-02-12 16:41:25.403179 - 2thousandmile baþarýyla giriþ yaptý
+2025-02-12 16:41:27,377 - INFO - 2thousandmile [200] POST https://i.instagram.com/rupload_igphoto/1739367685405_0_7754397593 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:31,379 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 16:41:35,242 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:36,243 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:41:36,472 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:36,472 - INFO - 2025-02-12 16:41:36.472214 - 2thousandmile için paylaþým yapýldý: cat\cathappens (122).jpg
+2025-02-12 16:41:38,388 - INFO - 2thousandmile [200] POST https://i.instagram.com/rupload_igphoto/1739367696472_0_8620041940 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:42,389 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 16:41:45,830 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:46,831 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:41:47,005 - INFO - 2thousandmile [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:41:47,005 - INFO - 2025-02-12 16:41:47.005873 - 2thousandmile için story paylaþýldý: cat\cathappens (122).jpg
+2025-02-12 16:42:39,508 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 16:42:39,840 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:42:40,080 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 16:42:46,259 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:42:47,260 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 16:42:48,220 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:42:49,222 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 16:42:51,415 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:42:51,427 - INFO - 2025-02-12 16:42:51.427742 - papazzersvip baþarýyla giriþ yaptý
+2025-02-12 16:42:52,384 - INFO - papazzersvip [200] POST https://i.instagram.com/rupload_igphoto/1739367771429_0_6719129626 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:42:56,387 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 16:42:59,202 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:43:00,204 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:43:00,455 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:43:00,456 - INFO - 2025-02-12 16:43:00.455881 - papazzersvip için paylaþým yapýldý: cat\cathappens (122).jpg
+2025-02-12 16:43:01,702 - INFO - papazzersvip [200] POST https://i.instagram.com/rupload_igphoto/1739367780456_0_9425881955 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:43:05,703 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 16:43:10,135 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:43:11,136 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:43:11,329 - INFO - papazzersvip [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:43:11,329 - INFO - 2025-02-12 16:43:11.329166 - papazzersvip için story paylaþýldý: cat\cathappens (122).jpg
+2025-02-12 16:44:00,809 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-02-12 16:44:01,152 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:01,401 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-02-12 16:44:04,933 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:05,934 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-02-12 16:44:06,840 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:07,842 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-02-12 16:44:10,350 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:10,352 - INFO - 2025-02-12 16:44:10.352981 - censored.tr baþarýyla giriþ yaptý
+2025-02-12 16:44:11,886 - INFO - censored.tr [200] POST https://i.instagram.com/rupload_igphoto/1739367850353_0_4612246695 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:15,887 - INFO - https://i.instagram.com/api/v1/media/configure/
+2025-02-12 16:44:19,643 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/media/configure/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:20,645 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:44:21,030 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:21,031 - INFO - 2025-02-12 16:44:21.031462 - censored.tr için paylaþým yapýldý: cat\cathappens (122).jpg
+2025-02-12 16:44:22,388 - INFO - censored.tr [200] POST https://i.instagram.com/rupload_igphoto/1739367861031_0_9674909551 (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:26,390 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-02-12 16:44:30,291 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:31,292 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-02-12 16:44:31,461 - INFO - censored.tr [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-02-12 16:44:31,461 - INFO - 2025-02-12 16:44:31.461076 - censored.tr için story paylaþýldý: cat\cathappens (122).jpg
+2025-02-12 16:45:14,927 - INFO - 2025-02-12 16:45:14.927320 - Silindi: cat\cathappens (122).jpg

@@ -1,0 +1,14 @@
+[Unit]
+Description=Instagram Bot Programı
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /root/home/insta/instapp.py
+WorkingDirectory=/root/home/insta
+StandardOutput=journal
+StandardError=journal
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
